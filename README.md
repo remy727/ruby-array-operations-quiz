@@ -1,4 +1,4 @@
-### Ruby Arrays Quiz
+### Ruby Array Operations Quiz
 
 #### Question 1 of 10
 
